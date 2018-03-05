@@ -1,0 +1,18 @@
+{
+  "name": "myplayers",
+  "version": "1.0.0",
+  "description": "'App for Users favorite NBA Players'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Roderick Gray'",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "yargs": "^11.0.0"
+  }
+}
